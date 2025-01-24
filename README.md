@@ -30,7 +30,7 @@ app.js: Contém a lógica de sorteio do amigo secreto.
 Imagens:
 amigo-secreto.png: Imagem representativa do projeto.
 play_circle_outline.png: Ícone usado na interface.![amigo-secreto](https://github.com/user-attachments/assets/a05e0754-3cdc-40f6-bd44-70830c5fcf66)
-![play_circle_outline](https://github.com/user-attachments/assets/ec0eab71-34cc-4b51-9f9f-52ed3807163a)
+
 
 
 https://github.com/user-attachments/assets/87a7decd-56cf-4220-ace3-3648c95b2b9f
